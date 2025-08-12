@@ -1,1 +1,1 @@
-# ITJR04-MATLAB-Based-Digital-Audio-Equalization-and-Inverse-Filter-Design
+# MATLAB-Based-Digital-Audio-Equalization-and-Inverse-Filter-Design
