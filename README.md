@@ -58,7 +58,7 @@ plots:
 <img width="286" height="223" alt="Power spectrum of original, distorted and corrected sound" src="https://github.com/user-attachments/assets/ce7106de-a618-431d-844e-15b643e3640b" />
 <img width="313" height="239" alt="Bass boost tf" src="https://github.com/user-attachments/assets/250e70cc-4c6a-47b8-9fdb-e5a1e2d377df" />
 <img width="287" height="236" alt="Treble boost tf" src="https://github.com/user-attachments/assets/a2c0d27f-80f0-4342-b2c7-bb933a4895d5" />
-<img width="160" height="130" alt="Time waveforsm of bass boosted sounds" src="https://github.com/user-attachments/assets/d63f1fad-3c3b-4ce1-9adf-346853f05345" />
+<img width="362" height="287" alt="Time waveforsm of bass boosted sounds" src="https://github.com/user-attachments/assets/edc6617c-4c17-4ba2-91c5-b91531788938" />
 <img width="283" height="225" alt="Time waveforms of treble boosted sounds" src="https://github.com/user-attachments/assets/808ef714-2966-4bfb-84cc-2cec858440eb" />
 <img width="300" height="235" alt="power spectrum of bass boosted sounds" src="https://github.com/user-attachments/assets/c838c900-b248-41cf-be12-5e0cc545dbce" />
 <img width="284" height="224" alt="Power spectrum of treble boosted sounds" src="https://github.com/user-attachments/assets/1a0c79ff-fc64-404a-8a87-488765411793" />
