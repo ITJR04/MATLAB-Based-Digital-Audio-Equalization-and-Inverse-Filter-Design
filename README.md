@@ -47,7 +47,10 @@ Correction: The inverse filter effectively removed distortions, producing an out
 Enhancements: Bass boost increased lower-frequency components (e.g., guitar), while treble boost emphasized higher-frequency elements (e.g., bells, snare, vocals).
 
 Validation: Power spectrum plots confirmed the correlation between original and corrected signals, and listening tests verified perceptual improvements.
+
 plots:
+
+
 <img width="281" height="233" alt="Estimated tf magnitude" src="https://github.com/user-attachments/assets/ebba3841-3fad-4019-be9b-7f70053b583a" />
 <img width="295" height="230" alt="Bode of estimated tf" src="https://github.com/user-attachments/assets/e4b9d186-270f-49bf-a7d6-cfef5df0853d" />
 <img width="278" height="227" alt="bode of estimated inv tf" src="https://github.com/user-attachments/assets/0ce56503-60a9-4b49-9301-bb61be5e2327" />
