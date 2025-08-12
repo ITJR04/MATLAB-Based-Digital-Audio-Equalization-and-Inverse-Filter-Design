@@ -47,16 +47,18 @@ Correction: The inverse filter effectively removed distortions, producing an out
 Enhancements: Bass boost increased lower-frequency components (e.g., guitar), while treble boost emphasized higher-frequency elements (e.g., bells, snare, vocals).
 
 Validation: Power spectrum plots confirmed the correlation between original and corrected signals, and listening tests verified perceptual improvements.
-plots:<img width="313" height="239" alt="Bass boost tf" src="https://github.com/user-attachments/assets/f289ac04-03c0-4c9e-af40<img width="278" height="227" alt="bode of estimated inv tf" src="https://github.com/user-attachments/assets/900ec08a-db44-41ae-999d-089ede9aa856" />
--d8e0c7701ad7" />
-<img width="295" height="230" alt="Bode of estimated tf" src="https://github.com/user-attachments/assets/be39b1e5-1968-4651-b0d6-b64e6e8ab118" />
-<img width="281" height="233" alt="Estimated tf magnitude" src="https://github.com/user-attachments/assets/83f4a7de-0b3c-4fa5-8f1d-25051d86b21f" />
-<img width="300" height="235" alt="power spectrum of bass boosted sounds" src="https://github.com/user-attachments/assets/29052b2f-a26e-4171-bf3d-181135a91fb7" />
-<img width="286" height="223" alt="Power spectrum of original, distorted and corrected sound" src="<img width="284" height="224" alt="Power spectrum of treble boosted sounds" src="https://github.com/user-attachments/assets/c2a33739-4b63-46a1-a88a-4ef0d11ab21f" />
-https://github.com/user-attachments/assets/a1fa12a0-878d-4f4b-bf07-c60d497b620e" />
-<img width="287" height="226" alt="Time waveforms of original, distorted and corrected sounds" src="https://github.com/user-attachments/assets/385b77f7-0fe6-4dab-a2d9-36ae95605f89" />
-<img width="283" height="225" alt="Time waveforms of treble boosted sounds" src="https://github.com/user-attachments/assets/ec9af03b-b4eb-4944-b1ea-7de50d3bdcb7" />
-<img width="287" height="236" alt="Treble boost tf" src="https://github.com/user-attachments/assets/564da085-87c7-4b41-8fcc-01fa457192d8" />
+plots:
+<img width="313" height="239" alt="Bass boost tf" src="https://github.com/user-attachments/assets/45933bc0-a848-4125-9782-d2a89f3a8db7" />
+<img width="278" height="227" alt="bode of estimated inv tf" src="https://github.com/user-attachments/assets/587fb3d4-163c-475f-a9a6-21611bce2003" />
+<img width="295" height="230" alt="Bode of estimated tf" src="https://github.com/user-attachments/assets/a169ad0a-7da8-4b38-a24f-9b43edb81ea1" />
+<img width="281" height="233" alt="Estimated tf magnitude" src="https://github.com/user-attachments/assets/299009e5-1286-43c3-8396-d579629a5cf9" />
+<img width="300" height="235" alt="power spectrum of bass boosted sounds" src="https://github.com/user-attachments/assets/b666371b-9e28-4f00-9854-87bf2f51a9b0" />
+<img width="286" height="223" alt="Power spectrum of original, distorted and corrected sound" src="https://github.com/user-attachments/assets/24dbe650-714d-4f5c-b929-ace3e4f1c811" />
+<img width="284" height="224" alt="Power spectrum of treble boosted sounds" src="https://github.com/user-attachments/assets/b0174ecc-5364-451f-bdc1-44f89990151a" />
+<img width="287" height="226" alt="Time waveforms of original, distorted and corrected sounds" src="https://github.com/user-attachments/assets/37217a5a-4ca2-4af4-b94b-490037333665" />
+<img width="283" height="225" alt="Time waveforms of treble boosted sounds" src="https://github.com/user-attachments/assets/00c2f33f-830f-4594-bb1d-e68630d7353b" />
+<img width="287" height="236" alt="Treble boost tf" src="https://github.com/user-attachments/assets/354ff84c-c120-4673-9412-580ef7ce8813" />
+
 
 
 # Key MATLAB Functions Used
